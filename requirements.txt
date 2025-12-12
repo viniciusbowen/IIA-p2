@@ -6,7 +6,8 @@ tensorflow>=2.16.0
 keras>=3.0.0
 
 # Processamento de Imagens
-opencv-python>=4.8.0
+# Use opencv-python-headless no ambiente de deploy (Streamlit Cloud)
+opencv-python-headless>=4.8.0
 Pillow>=10.0.0
 scikit-image>=0.21.0
 

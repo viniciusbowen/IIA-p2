@@ -166,63 +166,6 @@ Conclusões
 
 O projeto demonstra a viabilidade de utilizar redes generativas condicionadas para a detecção de anomalias em imagens de natureza biológica. A técnica permite generalização para tipos de anomalia não observados durante o treinamento e fornece instrumentos interpretáveis que podem auxiliar na tomada de decisão.
 
-Reprodutibilidade
------------------
-
-O repositório contém notebooks e instruções para reprodução dos experimentos. Recomenda-se o uso de GPU para treinamento e avaliação mais rápida.
-
-Referências selecionadas
------------------------
-
-Isola, P., Zhu, J.-Y., Zhou, T., & Efros, A. A. (2017). Image-to-Image Translation with Conditional Adversarial Networks. CVPR 2017.
-
-Goodfellow, I., et al. (2014). Generative Adversarial Nets. NIPS 2014.
-
-Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. MICCAI 2015.
-
-Selvaraju, R. R., et al. (2016). Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization. ICCV 2016.
-
-Informações de contato
----------------------
-
-Vinícius Bowen — 180079239
-
-Mateus Filho — 221000080
-
-Lucas Drummond — 231011650
-
-Data de compilação: Dezembro 2025
-# Diagnóstico de Anomalias em Folhas usando pix2pix GAN
-## Projeto 2 - Introdução à Inteligência Artificial (UnB 2025/2)
-
----
-
-## 📋 Informações do Trabalho
-
-**Disciplina:** Introdução à Inteligência Artificial  
-**Instituição:** Universidade de Brasília (UnB)  
-**Período:** 2025/2  
-**Data de Entrega:** Dezembro 2025
-
-### 👥 Alunos
-
-| Nome | Matrícula |
-|------|-----------|
-| Vinícius Bowen | 180079239 |
-| Mateus Filho | 221000080 |
-| Lucas Drummond | 231011650 |
-
----
-
-## 🔗 Links Importantes
-
-| Recurso | Link |
-|---------|------|
-| **Google Colab** | |
-| **Repositório GitHub** | https://github.com/TeusDev/IIA-p2|
-| **Interface Interativa** | |
-
----
 
 ## 1️⃣ Introdução
 

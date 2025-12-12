@@ -1,0 +1,6 @@
+.github/
+.venv/
+env/
+.virtualenv/
+.ipynb_checkpoints
+models/

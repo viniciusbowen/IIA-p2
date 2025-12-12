@@ -1,0 +1,34 @@
+# Dependências do Projeto 2 - IIA UnB 2025/2
+# Diagnóstico de Anomalias em Folhas usando pix2pix GAN
+
+# Deep Learning Framework
+tensorflow>=2.16.0
+keras>=3.0.0
+
+# Processamento de Imagens
+opencv-python>=4.8.0
+Pillow>=10.0.0
+scikit-image>=0.21.0
+
+# Computação Numérica
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Visualização
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+pandas>=2.0.0
+
+# Interface Interativa (Bônus)
+streamlit>=1.28.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+ipykernel>=6.25.0
+ipywidgets>=8.0.0
+
+# Utilitários
+tqdm>=4.65.0
